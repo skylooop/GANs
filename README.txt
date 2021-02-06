@@ -1,1 +1,1 @@
-Implementations of different GANs (W-GAN, DCGAN etc.)
+###Implementations of different GANs (W-GAN, DCGAN etc.)
