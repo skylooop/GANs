@@ -1,1 +1,1 @@
-# GANs
+# Implementations of GANS
